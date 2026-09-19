@@ -1,0 +1,3 @@
+thus is a text file for git serise
+this is a change to our code 
+print("i love merging")
